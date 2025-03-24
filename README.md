@@ -38,7 +38,12 @@ Java-Projects/
 As I complete each project, I'll add my thoughts and lessons learned here.
 
 ### Project 1: Shopping Cart Program
-_Coming soon..._
+Created a simple console shopping cart that handles item name, price, and quantity to calculate purchase totals.
+
+**Learned**: Scanner input, data types (String, double, int), basic I/O, arithmetic operations, and string concatenation.
+
+### Project 2: Compound Interest Calculator
+_Coming Soon ..._
 
 ## 🛠️ Tools & Technologies
 
