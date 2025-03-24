@@ -37,7 +37,7 @@ Java-Projects/
 
 As I complete each project, I'll add my thoughts and lessons learned here.
 
-### Project 1: Mad Libs Game
+### Project 1: Shopping Cart Program
 _Coming soon..._
 
 ## 🛠️ Tools & Technologies
