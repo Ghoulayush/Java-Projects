@@ -43,7 +43,14 @@ Created a simple console shopping cart that handles item name, price, and quanti
 **Learned**: Scanner input, data types (String, double, int), basic I/O, arithmetic operations, and string concatenation.
 
 ### Project 2: Compound Interest Calculator
-_Coming Soon ..._
+Developed a console application to calculate compound interest using user inputs for principal, rate, compounding frequency, and time period.
+
+**Learned**: Advanced mathematical calculations using `Math.pow()`, formatted output with `System.out.printf()`, handling financial calculations, and precise decimal representations.
+
+**Key Techniques**: Scanner input, mathematical formulas, type conversion, and basic financial computation.
+
+### Project 3: Weight Converter
+_Coming soon..._
 
 ## 🛠️ Tools & Technologies
 
