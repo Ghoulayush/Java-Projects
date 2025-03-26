@@ -50,7 +50,11 @@ Developed a console application to calculate compound interest using user inputs
 **Key Techniques**: Scanner input, mathematical formulas, type conversion, and basic financial computation.
 
 ### Project 3: Weight Converter
-_Coming soon..._
+Created a console application that converts weights between pounds and kilograms using user-selected conversion options.
+
+**Learned**: Conditional logic with `if-else`, user input validation, type conversion, and implementing simple conversion formulas.
+
+**Key Techniques**: Menu-driven program, mathematical conversions, formatted output, and basic error handling.
 
 ## 🛠️ Tools & Technologies
 
