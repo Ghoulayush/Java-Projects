@@ -2,21 +2,6 @@
 
 Welcome to my Java programming journey! This repository documents my progress from beginner to advanced Java concepts through practical projects.
 
-## 📋 Repository Structure
-```
-Java-Projects/
-├── 🔰 basic/
-│   ├── project1    
-│   ├── project2
-│   └── project3  
-├── 🔷 intermediate/
-│   ├── project4        
-│   └── project5
-└── 🔹 advanced/
-    ├── project6
-    └── project7
-```
-
 ## 🎯 Learning Goals
 
 - ✅ Master Java syntax and core concepts
@@ -55,6 +40,13 @@ Created a console application that converts weights between pounds and kilograms
 **Learned**: Conditional logic with `if-else`, user input validation, type conversion, and implementing simple conversion formulas.
 
 **Key Techniques**: Menu-driven program, mathematical conversions, formatted output, and basic error handling.
+
+### Project 4: Banking Program
+Implemented a simple console-based banking application with options to check balance, deposit, withdraw, and exit.
+
+**Learned**: Loop-based menu systems, modular programming with static methods, parameter passing, switch expressions (->), and persistent state management.
+
+**Key Techniques**: Input validation, maintaining state across operations, defensive programming (checking for negative values and insufficient funds), and user interface design.
 
 ## 🛠️ Tools & Technologies
 
