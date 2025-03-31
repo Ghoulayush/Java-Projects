@@ -48,6 +48,13 @@ Implemented a simple console-based banking application with options to check bal
 
 **Key Techniques**: Input validation, maintaining state across operations, defensive programming (checking for negative values and insufficient funds), and user interface design.
 
+### Project: Dice Roller Application
+Developed a console-based application that simulates rolling multiple dice with visual representation of each die face and calculates the total sum.
+
+**Learned**: Random number generation, ASCII art implementation using text blocks, switch expressions with arrow syntax, and accumulating values across iterations.
+
+**Key Techniques**: User input validation, ASCII art for visualization, Java text blocks, switch expressions, loops for multiple dice rolls, and running totals.
+
 ## 🛠️ Tools & Technologies
 
 - Java SE Development Kit (JDK)
