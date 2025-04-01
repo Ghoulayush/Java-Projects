@@ -48,12 +48,20 @@ Implemented a simple console-based banking application with options to check bal
 
 **Key Techniques**: Input validation, maintaining state across operations, defensive programming (checking for negative values and insufficient funds), and user interface design.
 
-### Project: Dice Roller Application
+### Project 5: Dice Roller Application
 Developed a console-based application that simulates rolling multiple dice with visual representation of each die face and calculates the total sum.
 
 **Learned**: Random number generation, ASCII art implementation using text blocks, switch expressions with arrow syntax, and accumulating values across iterations.
 
 **Key Techniques**: User input validation, ASCII art for visualization, Java text blocks, switch expressions, loops for multiple dice rolls, and running totals.
+
+### Project 6: Java Slot Machine
+Developed a console-based slot machine game that simulates a real-world slot machine with multiple symbols, betting system, and dynamic payouts based on matching patterns.
+
+**Learned**: Managing game state, implementing game mechanics with random outcomes, creating engaging user interfaces in console applications, and handling in-game currency/economy.
+
+**Key Techniques**: Random symbol generation, pattern matching for win conditions, variable payout calculations based on symbol value, game loop management, and handling persistent game state between rounds.
+javaCopy
 
 ## 🛠️ Tools & Technologies
 
