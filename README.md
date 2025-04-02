@@ -63,6 +63,13 @@ Developed a console-based slot machine game that simulates a real-world slot mac
 **Key Techniques**: Random symbol generation, pattern matching for win conditions, variable payout calculations based on symbol value, game loop management, and handling persistent game state between rounds.
 javaCopy
 
+### Project 7: Java Music / Audio Player
+Developed a console-based audio player application that can play, stop, and reset audio files (.wav, .au, .aiff) using Java's sound API.
+
+**Learned**: Working with Java's sound API (javax.sound.sampled), handling audio streams, resource management with try-with-resources, and implementing audio playback controls.
+
+**Key Techniques**: File I/O operations, audio stream management, exception handling with multiple catch blocks, try-with-resources for automatic resource cleanup, and implementing an interactive menu system.
+
 ## 🛠️ Tools & Technologies
 
 - Java SE Development Kit (JDK)
