@@ -70,6 +70,13 @@ Developed a console-based audio player application that can play, stop, and rese
 
 **Key Techniques**: File I/O operations, audio stream management, exception handling with multiple catch blocks, try-with-resources for automatic resource cleanup, and implementing an interactive menu system.
 
+### Project 8: Java Hangman Game
+Developed a console-based Hangman game that reads words from a text file, randomly selects one for the player to guess, and provides visual feedback through ASCII art of the hangman.
+
+**Learned**: File reading operations, ArrayList manipulation, character handling, ASCII art implementation with text blocks, and game state management.
+
+**Key Techniques**: BufferedReader for file operations, dynamic word selection using Random, ArrayList for tracking game state, character-by-character comparison, and progressive visual feedback based on player performance.
+
 ## 🛠️ Tools & Technologies
 
 - Java SE Development Kit (JDK)
