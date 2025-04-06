@@ -77,6 +77,13 @@ Developed a console-based Hangman game that reads words from a text file, random
 
 **Key Techniques**: BufferedReader for file operations, dynamic word selection using Random, ArrayList for tracking game state, character-by-character comparison, and progressive visual feedback based on player performance.
 
+### Project 9: Java Countdown Timer
+Developed a console application that creates a countdown timer from a user-specified number of seconds and displays a celebration message when the countdown reaches zero.
+
+**Learned**: Working with Java's Timer and TimerTask classes, implementing scheduled tasks, handling time-based events, and creating anonymous inner classes.
+
+**Key Techniques**: Scheduling tasks at fixed intervals, timer management, anonymous class implementation, user input for customization, and event-driven programming concepts.
+
 ## 🛠️ Tools & Technologies
 
 - Java SE Development Kit (JDK)
