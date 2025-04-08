@@ -84,6 +84,13 @@ Developed a console application that creates a countdown timer from a user-speci
 
 **Key Techniques**: Scheduling tasks at fixed intervals, timer management, anonymous class implementation, user input for customization, and event-driven programming concepts.
 
+### Project 10: Java Alarm Clock
+Developed a multithreaded alarm clock application that allows users to set an alarm time, displays a real-time clock, and plays an audio file when the alarm time is reached.
+
+**Learned**: Working with Java's time API, multithreading concepts, implementing the Runnable interface, handling audio playback, and creating real-time updating displays.
+
+**Key Techniques**: Thread management, time parsing and formatting, continuous time display with carriage return, audio file playback, and implementing multiple classes with specific responsibilities.
+
 ## 🛠️ Tools & Technologies
 
 - Java SE Development Kit (JDK)
